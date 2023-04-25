@@ -274,7 +274,7 @@ int main(void)
   while (1)
   {
 	  Lcd_cursor(&lcd, 1, 1);
-	  Lcd_string(&lcd, "RONICK AAKSHATH");
+	  Lcd_string(&lcd, "SATHISH R");
   }
   /* USER CODE END 3 */
 }

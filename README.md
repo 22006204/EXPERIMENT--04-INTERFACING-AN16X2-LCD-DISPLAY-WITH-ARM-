@@ -203,11 +203,13 @@ int main(void)
 
 
 ## Output screen shots of proteus  :
- 
+ ![WhatsApp Image 2023-05-02 at 15 45 53](https://user-images.githubusercontent.com/118787261/235640969-1b896884-22d2-4c55-84bf-be2e5d7b567a.jpg)
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
- ![EXP4_OPS](https://user-images.githubusercontent.com/118787261/234245652-61e298e3-d646-452e-960a-68ac64e16e66.png)
+ ![WhatsApp Image 2023-05-02 at 15 45 53](https://user-images.githubusercontent.com/118787261/235641030-353f99b6-45ad-421d-8231-0f8054b17ad5.jpg)
+
 
  
 ## Result :
